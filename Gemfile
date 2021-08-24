@@ -8,7 +8,7 @@ end
 ruby "2.7.4"
 
 gem "rails", "~> 6.1"
-gem "webpacker", "~> 4.0"
+gem "webpacker", "~> 5.4"
 gem "puma"
 gem "sass-rails"
 gem "coffee-rails", "~> 5.0"
